@@ -24,7 +24,7 @@
 [<img align="left" alt="Flutter" width="26px" src="https://www.codemate.com/wp-content/uploads/2016/02/flutter-logo-round.png" />][webdevplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Dart" width="26px" src="https://styles.redditmedia.com/t5_2sut9/styles/communityIcon_f1uukpexwpj11.jpg?format=pjpg&s=23f3640494195e4fb388298f93f9667f5746e4ff" />][]
+[<img align="left" alt="Dart" width="26px" src="https://styles.redditmedia.com/t5_2sut9/styles/communityIcon_f1uukpexwpj11.jpg?format=pjpg&s=23f3640494195e4fb388298f93f9667f5746e4ff" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
