@@ -38,19 +38,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<img align="left" alt="Vineet Github Stats" src="https://github-readme-stats.Sylvester-dev.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true" />
+<img align="left" alt="Vineet Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/Vineet_ok
 [instagram]: https://www.instagram.com/elvis_op/
