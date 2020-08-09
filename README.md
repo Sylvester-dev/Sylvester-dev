@@ -62,7 +62,7 @@
 <br />
 
 ---
-![Vineet's github stats](https://github-readme-stats.vercel.app/api?username=Sylvester-dev_icons=true&hide_border=true&count_private=true)
+![Vineet Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true&count_private=true)
 
 
 ❤ From [Sylvester](https://github.com/Sylvester-dev)
