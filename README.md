@@ -9,10 +9,28 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Vineet.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
-[<img align="left" alt="Vineet | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Vineet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vineet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<span>
+<a href="">
+  <img align="left" alt="Vineet Kumar | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+ <a href="https://twitter.com/Vineet_ok">
+  <img align="left" alt="Vineet Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vineet-kumar-a67792197/">
+  <img align="left" alt="Vineet LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/Elvis_op">
+  <img align="left" alt="Vineet Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="mailto:vk.vempire@gmail.com/">
+  <img align="left" alt="Vineet E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Vineet Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
+</a>
+<a href="https://www.instagram.com/elvis_op/">
+  <img align="left" alt="Vineet instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<span>
 
 <br />
 
