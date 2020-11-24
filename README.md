@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, listen songs and play games
 - 🏫 Persuing my bachelor's at IIIT Lucknow
-- 🤗 Member at @axios-iiitl @ecell-iiitl @afterdark-iiitl
+- 🤗 Member at @DSC-iiitl @axios-iiitl @ecell-iiitl @GeeksForGeeks-iiitl @Mozilla club-iiitl
 - 💬 Ask me about anything, I am happy to help
 
 ### Connect with me:
