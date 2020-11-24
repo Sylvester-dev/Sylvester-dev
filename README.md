@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to write a new blog post
 - 💫 Want to make world a better place to live.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects and improve my development skills
 - ⚡ Fun fact: I love to draw, listen songs and play games
 - 🏫 Persuing my bachelor's at IIIT Lucknow
 - 🤗 Member at @DSC-iiitl @axios-iiitl @ecell-iiitl @GeeksForGeeks-iiitl @Mozilla club-iiitl
