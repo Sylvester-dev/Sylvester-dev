@@ -2,10 +2,10 @@
 
 ## I'm a Student, Developer, and a Coder!!
 - 🔭 I’m currently working on improving my all-round skills!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Blockchain 
 - 👯 I’m looking to write a new blog post
 - 💫 Want to make world a better place to live.
-- 🥅 2020 Goals: Contribute more to Open Source projects and improve my development skills
+- 🥅 2021 Goals: Contribute more to Open Source projects and improve my coding skills
 - ⚡ Fun fact: I love to draw, listen songs and play games
 - 🏫 Persuing my bachelor's at IIIT Lucknow
 - 🤗 Member at @DSC-iiitl @axios-iiitl @ecell-iiitl @GeeksForGeeks-iiitl @Mozilla club-iiitl
