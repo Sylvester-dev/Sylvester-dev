@@ -1,4 +1,4 @@
-### Hi there, I'm Vineet 👋
+### Hi there, I'm Vineet 👋  ![](https://komarev.com/ghpvc/?username=Sylvester-dev)
 
 ## I'm a Student, Developer, and a Coder!!
 - 🔭 I’m currently working on improving my all-round skills!
@@ -45,7 +45,7 @@
 <code><img width="26px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img width="26px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width="26px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width="26px" alt="Flutter" src="https://www.codemate.com/wp-content/uploads/2016/02/flutter-logo-round.png"></code>
+<code><img width="26px" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img width="26px" alt="Dart" src="https://styles.redditmedia.com/t5_2sut9/styles/communityIcon_f1uukpexwpj11.jpg?format=pjpg&s=23f3640494195e4fb388298f93f9667f5746e4ff"></code>
 <code><img width="26px" alt="Java" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></code>
 <code><img width="26px" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
