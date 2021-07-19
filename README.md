@@ -63,6 +63,8 @@
 
 ---
 ![Vineet Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true&count_private=true)
+---
+ ![snake gif](https://github.com/Sylvester-dev/Sylvester-dev/blob/output/github-contribution-grid-snake.gif)
 
 
 ❤ From [Sylvester](https://github.com/Sylvester-dev)
