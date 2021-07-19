@@ -65,9 +65,10 @@
 <br />
 
 ---
-![Vineet Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true&count_private=true)
+![Vineet Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true&theme=dark&count_private=true)
 ---
- ![snake gif](https://github.com/Sylvester-dev/Sylvester-dev/blob/output/github-contribution-grid-snake.gif)
+<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
+![Sylvester-dev snake gif](https://github.com/Sylvester-dev/Sylvester-dev/blob/output/github-contribution-grid-snake.gif)
 
 
 ❤ From [Sylvester](https://github.com/Sylvester-dev)
