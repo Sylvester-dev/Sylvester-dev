@@ -1,4 +1,6 @@
-### Hi there, I'm Vineet 👋  ![](https://komarev.com/ghpvc/?username=Sylvester-dev)
+### Hi there, I'm Vineet 👋  
+
+![](https://komarev.com/ghpvc/?username=Sylvester-dev)
 
 ## I'm a Student, Developer, and a Coder!!
 - 🔭 I’m currently working on improving my all-round skills!
@@ -9,12 +11,13 @@
 - ⚡ Fun fact: I love to draw, listen songs and play games
 - 🏫 Persuing my bachelor's at IIIT Lucknow
 - 🤗 Member at @DSC-iiitl @axios-iiitl @ecell-iiitl @GeeksForGeeks-iiitl @Mozilla club-iiitl
+- 🤩 Microsoft Learn Student Ambassador
 - 💬 Ask me about anything, I am happy to help
 
 ### Connect with me:
 
 <span>
-<a href="">
+<a href="https://vineet-k.netlify.app/">
   <img align="left" alt="Vineet Kumar | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
  <a href="https://twitter.com/Vineet_ok">
   <img align="left" alt="Vineet Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -28,7 +31,7 @@
 <a href="mailto:vk.vempire@gmail.com/">
   <img align="left" alt="Vineet E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
 </a>
-<a href="">
+<a href="https://vk-blog.netlify.app/">
   <img align="left" alt="Vineet Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a>
 <a href="https://www.instagram.com/elvis_op/">
