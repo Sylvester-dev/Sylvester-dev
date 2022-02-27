@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Sylvester-dev)
 
 <!-- //https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif -->
-## I'm a Student, Developer, and a Coder!!
+<!-- ## I'm a Student, Developer, and a Coder!!
 - 🔭 I’m currently working on improving my all-round skills!
 - 🌱 I’m currently learning Blockchain 
 - 👯 I’m looking to write a new blog post
@@ -63,21 +63,23 @@
 <code><img width="26px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br />
-<br />
+<br /> -->
 
----
+<!-- ---
 ![Vineet Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true&theme=dark&count_private=true)
 ---
   
 ###    Watch my contribution graph get eaten by the snake 🐍
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![Sylvester-dev snake gif](https://github.com/Sylvester-dev/Sylvester-dev/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Sylvester-dev snake gif](https://github.com/Sylvester-dev/Sylvester-dev/blob/output/github-contribution-grid-snake.svg)
 
 
-❤ From [Sylvester](https://github.com/Sylvester-dev)
- -->
+❤ From [Sylvester](https://github.com/Sylvester-dev) -->
+
   
  <h2> Hi, I'm Vineet Kumar! <img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="50"></h2>
+ 
+ ![](https://komarev.com/ghpvc/?username=Sylvester-dev)
   
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
