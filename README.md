@@ -77,7 +77,7 @@
 ❤ From [Sylvester](https://github.com/Sylvester-dev) -->
 
   
- <h2> Hi, I'm Vineet Kumar! <img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="50"></h2>
+ <h2> Hi, I'm Vineet Kumar!<img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="50"></h2>
  
  ![](https://komarev.com/ghpvc/?username=Sylvester-dev)
   
@@ -136,8 +136,14 @@ const aboutMe = {
 
 <br />
   
-  ---
-![Vineet Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true&theme=dark&count_private=true)
+<!-- 
+![Vineet Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true&theme=dark&count_private=true) -->
+---
+  
+📈 My github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="vineetstat" />
+  
 ---
   
 ###    Watch my contribution graph get eaten by the snake 🐍
