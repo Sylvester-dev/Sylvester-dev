@@ -1,7 +1,8 @@
-### Hi there, I'm Vineet 👋  
+<!-- ### Hi there, I'm Vineet 👋  
 
 ![](https://komarev.com/ghpvc/?username=Sylvester-dev)
 
+<!-- //https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif -->
 ## I'm a Student, Developer, and a Coder!!
 - 🔭 I’m currently working on improving my all-round skills!
 - 🌱 I’m currently learning Blockchain 
@@ -74,3 +75,69 @@
 
 
 ❤ From [Sylvester](https://github.com/Sylvester-dev)
+ -->
+  
+ <h2> Hi, I'm Vineet Kumar! <img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="50"></h2>
+  
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const aboutMe = {
+  programingLanguages: [Javascript, Solidity, Dart, C++, Python, Java],
+  askMeAbout: ["blockchain dapps", "web dev", "tech", "app dev", "photography"],
+  technologies: {
+        fullStack: {
+            blockchain: ["EVM", "Solidity", "Hardhat", "GraphQL", "Moralis"],
+            webDev: ["React", "Mongo", "Node", "Express", "MaterialUI"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter Development", "Dart"],
+        },
+        devOps: ["Azure", "Docker🐳"],
+        databases: ["mongoDB", "firebase"],
+        otherTools : ["Git", "Figma", "Postman", "Photoshop"],
+  },
+  techCommunities: {
+                        coreTeam: "Google Developer Student Club",
+                        mentor: "Microsoft Learn Student Ambassador",
+                        techWeb_lead: "Ecell, IIITL",
+                        sessions: "Axios, IIITL",
+                        co-organiser: "Equinox, Enspire",
+                      },
+ funFact: "There are two ways to write error-free programs; only the third one works"
+}
+```
+### Connect with me:
+
+<span>
+<a href="https://vineet-k.netlify.app/">
+  <img align="left" alt="Vineet Kumar | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+ <a href="https://twitter.com/Vineet_ok">
+  <img align="left" alt="Vineet Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vineet-kumar-a67792197/">
+  <img align="left" alt="Vineet LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/Elvis_op">
+  <img align="left" alt="Vineet Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="mailto:vk.vempire@gmail.com/">
+  <img align="left" alt="Vineet E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
+</a>
+<a href="https://vk-blog.netlify.app/">
+  <img align="left" alt="Vineet Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
+</a>
+<a href="https://www.instagram.com/elvis_op/">
+  <img align="left" alt="Vineet instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<span>
+
+<br />
+  
+  ---
+![Vineet Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true&theme=dark&count_private=true)
+---
+  
+###    Watch my contribution graph get eaten by the snake 🐍
+<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
+![Sylvester-dev snake gif](https://github.com/Sylvester-dev/Sylvester-dev/blob/output/github-contribution-grid-snake.svg)
