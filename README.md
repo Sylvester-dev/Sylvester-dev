@@ -77,7 +77,7 @@
 ❤ From [Sylvester](https://github.com/Sylvester-dev) -->
 
   
- <h2> Hi, I'm Vineet Kumar!<img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="50"></h2>
+ <h2> Hi, I'm Vineet!<img src="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" width="50"></h2>
  
  ![](https://komarev.com/ghpvc/?username=Sylvester-dev)
   
@@ -105,7 +105,7 @@ const aboutMe = {
                         techWeb_lead: "Ecell, IIITL",
                         sessions: "Axios, IIITL",
                         co-organiser: "Equinox, Enspire",
-                      },
+                   },
  funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
