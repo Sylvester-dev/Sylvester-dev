@@ -112,25 +112,25 @@ const aboutMe = {
 ### Connect with me:
 
 <span>
-<a href="https://vineet-k.netlify.app/">
-  <img align="left" alt="Vineet Kumar | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
- <a href="https://twitter.com/Vineet_ok">
-  <img align="left" alt="Vineet Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://vineetportfolio.netlify.app/">
+  <img align="left" alt="Vineet Kumar | Website" width="22px" src="https://img.icons8.com/plasticine/344/domain.png" />
+ <a href="https://twitter.com/3lvis_vk">
+  <img align="left" alt="Vineet Kumar | Twitter" width="22px" src="https://img.icons8.com/office/344/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/vineet-kumar-a67792197/">
-  <img align="left" alt="Vineet LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Vineet LinkdeIN" width="22px" src="https://img.icons8.com/office/344/linkedin.png" />
 </a>
-<a href="https://t.me/Elvis_op">
-  <img align="left" alt="Vineet Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/elvis_vk">
+  <img align="left" alt="Vineet Telegram" width="22px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />
 </a>
-<a href="mailto:vk.vempire@gmail.com/">
-  <img align="left" alt="Vineet E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
+<a href="mailto:vk.ind004@gmail.com/">
+  <img align="left" alt="Vineet E-mail" width="22px" src="https://img.icons8.com/color/344/gmail-new.png" />
 </a>
 <a href="https://vk-blog.netlify.app/">
-  <img align="left" alt="Vineet Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
+  <img align="left" alt="Vineet Blogs" width="22px" src="https://img.icons8.com/ios-filled/344/medium-monogram--v1.png" />
 </a>
-<a href="https://www.instagram.com/elvis_op/">
-  <img align="left" alt="Vineet instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/__vineet.kumar__/">
+  <img align="left" alt="Vineet instagram" width="22px" src="https://img.icons8.com/office/344/instagram-new.png" />
 </a>
 <span>
 
