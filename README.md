@@ -127,7 +127,7 @@ const aboutMe = {
   <img align="left" alt="Vineet E-mail" width="22px" src="https://img.icons8.com/color/344/gmail-new.png" />
 </a>
 <a href="https://vk-blog.netlify.app/">
-  <img align="left" alt="Vineet Blogs" width="22px" src="https://img.icons8.com/ios-filled/344/medium-monogram--v1.png" />
+  <img align="left" alt="Vineet Blogs" width="22px" src="https://img.icons8.com/ios/344/medium-monogram--v1.png" />
 </a>
 <a href="https://www.instagram.com/__vineet.kumar__/">
   <img align="left" alt="Vineet instagram" width="22px" src="https://img.icons8.com/office/344/instagram-new.png" />
