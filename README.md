@@ -138,11 +138,6 @@ const aboutMe = {
   
 <!-- 
 ![Vineet Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true&theme=dark&count_private=true) -->
----
-  
-📈 My github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sylvester-dev&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="vineetstat" />
   
 ---
   
